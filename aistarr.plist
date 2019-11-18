@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>https://starraia-download.51zxtx.com/aia/aiastarr.ipa</string>
+					<string>https://772984968.github.io/aiastarr/aiastarr.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,7 +36,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mcrazy.Mytest</string>
+				<string>com.rratsaia.ppa</string>
 				<key>bundle-version</key>
 				<string>1.1.4</string>
 				<key>kind</key>
